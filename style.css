@@ -306,6 +306,17 @@ html {
   .speaker-wrapper > :nth-child(n + 3) {
     display: none;
   }
+
+  .button-spk {
+    margin: 20px;
+    text-align: center;
+  }
+
+  .more-btn {
+    width: 100%;
+    height: 43px;
+    background: none;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -636,6 +647,10 @@ html {
   .partner-logo img {
     width: 19%;
     padding-right: 3.125rem;
+  }
+
+  .my-button {
+    display: none;
   }
 
   /* Rights Starts */

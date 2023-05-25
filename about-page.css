@@ -579,8 +579,9 @@ html {
     font-weight: 400;
     font-size: 17px;
     line-height: 35px;
-    width: 88%;
-    padding: 41px;
+    width: 100%;
+    padding: 40px;
+    padding-left: 54px;
   }
 
   .summitcontact-email {
