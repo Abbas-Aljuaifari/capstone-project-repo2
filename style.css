@@ -19,7 +19,7 @@ html {
 
   /* Ham starts */
   .ham-popup {
-    background: #017f94;
+    background: #ec5242;
     position: fixed;
     height: 100%;
     width: 100%;
@@ -113,8 +113,7 @@ html {
 
   /* conference intro starts */
   .conference-intro {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.4),
         rgba(255, 255, 255, 0.4)
       ),
@@ -302,6 +301,9 @@ html {
     font-size: 0.6rem;
     padding-top: 0.8rem;
   }
+  .speaker-wrapper > :nth-child(n + 3) {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 768px) {
@@ -406,8 +408,7 @@ html {
 
   /* conference intro starts */
   .conference-intro {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
