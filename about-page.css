@@ -114,7 +114,8 @@ html {
   }
 
   .summit-description {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -177,7 +178,7 @@ html {
   }
 
   .summit-mail a {
-    color: #000000;
+    color: #000;
     font-weight: 800;
     font-size: 0.75rem;
   }
@@ -282,7 +283,8 @@ html {
   }
 
   .first-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -318,7 +320,8 @@ html {
   }
 
   .second-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -510,7 +513,8 @@ html {
 
   /* Summit Description Starts */
   .summit-description {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -596,7 +600,7 @@ html {
   }
 
   .summit-mail a {
-    color: #000000;
+    color: #000;
     font-weight: 800;
   }
 
@@ -705,7 +709,8 @@ html {
   }
 
   .first-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -717,7 +722,8 @@ html {
   }
 
   .second-summit {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
