@@ -110,8 +110,7 @@ html {
   }
 
   .summit-description {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -279,8 +278,7 @@ html {
   }
 
   .first-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -314,8 +312,7 @@ html {
   }
 
   .second-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -501,8 +498,7 @@ html {
 
   /* Summit Description Starts */
   .summit-description {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -698,8 +694,7 @@ html {
   }
 
   .first-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -711,8 +706,7 @@ html {
   }
 
   .second-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -749,8 +743,7 @@ html {
   }
 
   /*  Past Summits Ends */
-
-  .rights-img-mobile {
+  add .rights-img-mobile {
     display: none;
   }
 
@@ -776,7 +769,7 @@ html {
   }
 
   .rights-msg h4 {
-    color: #fff;
+    color: #ffffff;
     font-weight: 700;
     padding-bottom: 6%;
   }
