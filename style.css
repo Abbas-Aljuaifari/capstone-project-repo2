@@ -109,7 +109,8 @@ html {
 
   /* conference intro starts */
   .conference-intro {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.4),
         rgba(255, 255, 255, 0.4)
       ),
@@ -414,7 +415,8 @@ html {
 
   /* conference intro starts */
   .conference-intro {
-    background-image: linear-gradient(
+    background-image:
+      linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
