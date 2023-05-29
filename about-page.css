@@ -64,11 +64,7 @@ html {
 
   .navbar-content {
     display: flex;
-
-    /* flex-wrap: inherit; */
     align-items: center;
-
-    /* flex-direction: row-reverse; */
     justify-content: space-between;
     padding: 0;
   }
@@ -114,8 +110,7 @@ html {
   }
 
   .summit-description {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -283,14 +278,11 @@ html {
   }
 
   .first-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
       url(./new-img/jason-goodman-Oalh2MojUuk-unsplash.png);
-
-    /* background-image: url(./properties/first_summit.png); */
     background-repeat: no-repeat;
     background-size: cover;
     margin: 5%;
@@ -320,14 +312,11 @@ html {
   }
 
   .second-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
       url(./new-img/marvin-meyer-SYTO3xs06fU-unsplash.png);
-
-    /* background-image: url(./properties/summit-second.png); */
     background-repeat: no-repeat;
     background-size: cover;
     margin: 5%;
@@ -486,11 +475,7 @@ html {
 
   .navbar-content {
     display: flex;
-
-    /* flex-wrap: inherit; */
     align-items: center;
-
-    /* flex-direction: row-reverse; */
     justify-content: space-between;
     padding: 0;
   }
@@ -513,8 +498,7 @@ html {
 
   /* Summit Description Starts */
   .summit-description {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(255, 255, 255, 0.6),
         rgba(255, 255, 255, 0.6)
       ),
@@ -710,8 +694,7 @@ html {
   }
 
   .first-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -723,8 +706,7 @@ html {
   }
 
   .second-summit {
-    background-image:
-      linear-gradient(
+    background-image: linear-gradient(
         rgba(200, 0, 0, 0.4),
         rgba(220, 0, 0, 0.4)
       ),
@@ -762,36 +744,35 @@ html {
 
   /*  Past Summits Ends */
 
-  /* Rights Starts */
-  .rigts {
-    display: flex;
-    justify-content: space-between;
-    background: #414246;
-    padding-left: 5%;
-  }
-
   .rights-img-mobile {
     display: none;
   }
 
-  .rights-img-desktop {
-    width: 23%;
-    margin-left: 7%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+  .rigts {
+    display: flex;
+    justify-content: center;
+    padding-top: 5.5%;
+    padding-bottom: 2.5%;
+    background: #414246;
+  }
+
+  .rigts img {
+    width: 25%;
+    padding-bottom: 4%;
+    padding-top: 5px;
   }
 
   .rights-msg {
     display: flex;
     align-items: center;
-    width: 72%;
+    width: 50%;
     padding-left: 4.514%;
   }
 
   .rights-msg h4 {
-    color: #fff;
+    color: #ffffff;
     font-weight: 700;
-    font-size: 1.3rem;
+    padding-bottom: 6%;
   }
 
   /* Rights Ends */
